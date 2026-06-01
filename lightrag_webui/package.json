@@ -78,7 +78,7 @@
     "tailwind-scrollbar": "^4.0.2",
     "typography": "^0.16.24",
     "unist-util-visit": "^5.1.0",
-    "zustand": "^5.0.13"
+    "zustand": "^5.0.14"
   },
   "devDependencies": {
     "@eslint/js": "^10.0.1",
